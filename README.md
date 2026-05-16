@@ -16,13 +16,6 @@ If you use this repository or find it helpful, please cite our paper:
   publisher={IEEE}
 }
 
-### Clone the Repository
-First, clone the repo to your local machine using Git:
-```bash
-git clone [URL of the Git repository]
-cd [repository name]
-```
-
 ### Setting Up a Virtual Environment
 It's recommended to run Python projects in a virtual environment to manage dependencies. To set up a virtual environment, run:
 ```bash
