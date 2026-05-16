@@ -16,16 +16,6 @@ If you use this repository or find it helpful, please cite our paper:
   publisher={IEEE}
 }
 
-
-
-##
-
-### Install Dependencies
-Install all required packages:
-```bash
-pip install -r requirements.txt
-```
-
 ### Use your trained model
 1. Move your model to `03UIApplication\static\models`
 2. Set the name of your model in `app.py` => `MODEL_PATH = "static/models/<your-model>.pt"`
