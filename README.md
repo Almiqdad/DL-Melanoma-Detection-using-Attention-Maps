@@ -1,5 +1,5 @@
 # DL-Melanoma-Detection-using-Attention-Maps
-Deep Learning based Melanoma Detection using Attention Maps
+
 Authors: Ifrah Andleeb, Almiqdad Elzein, Vaibhav Patel, Yasser Alginahi
 Listed in the 2024 IEEE 3rd International Conference on Computing and Machine Intelligence proceedings, paper/page entry 066 / p.185.
 
