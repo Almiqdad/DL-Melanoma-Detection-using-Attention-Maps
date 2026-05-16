@@ -16,14 +16,9 @@ If you use this repository or find it helpful, please cite our paper:
   publisher={IEEE}
 }
 
-### Setting Up a Virtual Environment
-It's recommended to run Python projects in a virtual environment to manage dependencies. To set up a virtual environment, run:
-```bash
-python -m venv venv
-```
-Activate the virtual environment:
-- On Windows: `venv\Scripts\activate`
-- On Unix or MacOS: `source venv/bin/activate`
+
+
+##
 
 ### Install Dependencies
 Install all required packages:
