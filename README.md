@@ -15,14 +15,3 @@ If you use this repository or find it helpful, please cite our paper:
   year={2024},
   publisher={IEEE}
 }
-
-### Use your trained model
-1. Move your model to `03UIApplication\static\models`
-2. Set the name of your model in `app.py` => `MODEL_PATH = "static/models/<your-model>.pt"`
-
-## Running the Application
-To run the Flask application, use the following command:
-```bash
-python app.py
-```
-The application will be available at `http://127.0.0.1:5000` in your web browser.
